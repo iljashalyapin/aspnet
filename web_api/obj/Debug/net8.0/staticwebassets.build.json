@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "u6VqviGYJaAiM046n6gmVjtUj+K+ipRbTc3UALic7G8=",
+  "Source": "web_api",
+  "BasePath": "_content/web_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "web_api\\wwwroot",
+      "Source": "web_api",
+      "ContentRoot": "C:\\aspnet\\web_api\\wwwroot\\",
+      "BasePath": "_content/web_api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\aspnet\\web_api\\wwwroot\\index.html",
+      "SourceId": "web_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\aspnet\\web_api\\wwwroot\\",
+      "BasePath": "_content/web_api",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
